@@ -14,4 +14,4 @@ Awesome papers and codebases about Occupancy Network in Tesla AI Day 2022
 + Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
 
 ## Challenges
-+ CVPR 2023 3D Occupancy Prediction Challenge [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)[data download](https://opendatalab.com/CVPR2023-3D-Occupancy/download)]
++ CVPR 2023 3D Occupancy Prediction Challenge [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)][[data download](https://opendatalab.com/CVPR2023-3D-Occupancy/download)]
