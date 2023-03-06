@@ -19,6 +19,6 @@ Awesome papers and codebases about Occupancy Network in Tesla AI Day 2022
 + CVPR 2023 3D Occupancy Prediction Challenge [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)][[dataset download](https://opendatalab.com/CVPR2023-3D-Occupancy/download)]
 
 ## Tesla
-+ A Look at Tesla's Occupancy Networks [[CVPR Workshop](https://www.youtube.com/watch?v=KC8e0oTFUcw)] [[AIDay 2022]([(https://www.youtube.com/watch?v=ODSJsviD_SU&t=4403s)]
++ A Look at Tesla's Occupancy Networks [[CVPR Workshop](https://www.youtube.com/watch?v=KC8e0oTFUcw)][[AIDay 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&t=4403s)]
 
 
