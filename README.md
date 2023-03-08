@@ -14,7 +14,7 @@ Awesome papers and codebases about Occupancy Network in Tesla AI Day 2022
 
 ## Datasets
 + Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
-+ OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github]([[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)])]
++ OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
 
 ## Survey
 + Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review [[paper](https://arxiv.org/pdf/2303.01212.pdf)] 
