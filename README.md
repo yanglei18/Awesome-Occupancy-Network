@@ -11,10 +11,14 @@ Awesome papers and codebases about Occupancy Network in Tesla AI Day 2022
 + MonoScene: Monocular 3D Semantic Scene Completion [[paper](https://arxiv.org/abs/2112.00726)] [[Github](https://github.com/astra-vision/MonoScene)]
 #### Arxiv
 + OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network [[paper](https://arxiv.org/abs/2302.13540)] [[Github](https://github.com/megvii-research/OccDepth)]
++ SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2303.09551)] [[Github](https://github.com/weiyithu/SurroundOcc)]
++ OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
 
 ## Datasets
 + Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
 + OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
++ SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2303.09551)] [[Github](https://github.com/weiyithu/SurroundOcc)]
++ OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
 
 ## Survey
 + Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review [[paper](https://arxiv.org/pdf/2303.01212.pdf)] 
